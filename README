@@ -1,0 +1,3 @@
+This is a Mac OS X driver for the FATX filesystem used by the original XBox.
+It's a hackup of the stock FAT filesystem driver code. It worked for PowerPC
+MacOS X 10.4; I haven't tested it on a modern Mac yet.
